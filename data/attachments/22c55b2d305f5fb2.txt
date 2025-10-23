@@ -1,0 +1,2 @@
+https://staging.zytrack.ch/login
+Removed /opt/actions-runner/actions-runner/_work/zytrack-testautomation/zytrack-testautomation/state.json
