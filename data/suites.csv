@@ -1,5 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","2026","test_add_user","testcases.users","2025-10-23","passed","2025-10-23","","test_user","",""
-"","897","test_login","testcases","2025-10-23","passed","2025-10-23","","test_login_logout","",""
-"","273","test_view_users","testcases.users","2025-10-23","passed","2025-10-23","","test_user","",""
-"","1682","test_logout","testcases","2025-10-23","passed","2025-10-23","","test_login_logout","",""
