@@ -1,2 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","2887","test_add_to_cart","tests","2026-03-10","passed","2026-03-10","","test_cart","",""
+"","8768","test_add_to_cart[Fancy Green Top 123456]","tests","2026-03-10","broken","2026-03-10","","test_cart","",""
+"","2753","test_add_to_cart[Blue]","tests","2026-03-10","failed","2026-03-10","","test_cart","",""
+"","4449","test_add_to_cart[Fancy Green Top]","tests","2026-03-10","passed","2026-03-10","","test_cart","",""
